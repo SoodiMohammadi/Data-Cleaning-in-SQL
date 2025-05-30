@@ -2,7 +2,7 @@
 
 ## Run the query
 
-To execute the query, run https://github.com/SoodiMohammadi/Data-Cleaning-in-SQL/blob/main/DataCleaning.sql
+To execute the query, run: DataCleaning.sql
 
 ![Image](https://github.com/user-attachments/assets/b4459119-75db-4b37-a955-2d4426398560)
 
