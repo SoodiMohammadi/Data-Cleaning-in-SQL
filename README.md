@@ -4,7 +4,7 @@
 
 To execute the query, run 
 
-![Image](https://github.com/user-attachments/assets/1478328b-b2be-4332-b17f-59d18e71337a)
+![Image](https://github.com/user-attachments/assets
 
 # Project: Data Cleaning with SQL – Housing Dataset
 
