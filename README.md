@@ -1,6 +1,6 @@
 # Data Cleaning in SQL
 
-## Run the query
+## Run the query [DataCleaning.sql] (https://github.com/SoodiMohammadi/Data-Cleaning-in-SQL/blob/main/DataCleaning.sql)
 
 To execute the query, run: DataCleaning.sql
 
